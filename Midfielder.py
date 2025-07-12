@@ -96,7 +96,7 @@ selected_period = st.sidebar.slider(
 
 player_position = st.sidebar.selectbox(
     "Position", 
-    ("Midfilder", "Forwarder", "Défender", "Goalkeeper")
+    ("Midfilder (Le Bach) ", "Forwarder", "Défender", "Goalkeeper")
 )
 
 # Métriques clés
